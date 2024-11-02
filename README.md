@@ -44,7 +44,7 @@ int PA, PB;
 int KA, KB; 
 int message, encrypted_message, decrypted_message;
 printf("\n ********EllipƟc Curve Cryptography(ECC)********\n\n");
-printf("\n NAME:GOKUL J REG NO:212222230038\n\n");
+printf("\n NAME:J JAYA SURIYA REG NO:212223230088\n\n");
 printf("Enter the base point (G): ");
 scanf("%d", &G);
 printf("Enter the prime modulus (p): ");
