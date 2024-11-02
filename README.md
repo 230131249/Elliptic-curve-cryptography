@@ -85,7 +85,8 @@ return 0;
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/9a72a0fc-16b6-427c-b319-2795eac72de4)
+![image](https://github.com/user-attachments/assets/4692af12-97f7-4c92-a308-9d382df9ac70)
+
 
 ## Result:
 Thus the Elliptic curve cryptography (ECC) had been implemented successfully.
